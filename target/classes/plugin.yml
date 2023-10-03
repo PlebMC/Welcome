@@ -1,0 +1,7 @@
+name: Welcome
+version: '1.0-SNAPSHOT'
+main: net.lonestar.Welcome
+api-version: 1.20
+commands:
+  welcome:
+  reload:
